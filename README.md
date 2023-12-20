@@ -2,6 +2,6 @@
 
 Description of your project.
 
-![Poster](poster.pdf)
+![Poster](poster.png)
 
 
